@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated: 2026-08-08**
+**Last updated: 2026-08-20**
 
 All Languages Learner (iPhone, iPad, and Mac) is designed to collect as little data as possible. This policy explains exactly what the app does and does not do with your information, and applies the same way on every platform.
 
@@ -35,7 +35,7 @@ Your reading history (every passage you've generated) and bookmarks (passages yo
 ## Third parties
 
 The only third parties involved are:
-- **aicoin-proxy** (`proxy.aicoin.oeaio.com`, operated by us) — relays every AI request below with its own paid credentials and debits your wallet; see [aicoin.oeaio.com](https://aicoin.oeaio.com) for how it works.
+- **aicoin-proxy** (`proxy.aicoin.oeaio.com`, operated by us) — relays every AI request below with its own paid credentials and debits your wallet; see [aicoin.oeaio.com](https://aicoin.oeaio.com) for how it works. The same single set of credentials is used for every user of the app: the AI providers below are never given a per-user account, key, or identifier, so what reaches them is one stream of requests with nothing in it that distinguishes you from anyone else. Your wallet address is used by the proxy to debit the call and is not forwarded to them.
 - **Anthropic** — generates each reading passage and its translation from your chosen languages and optional subject.
 - **ElevenLabs** — generates spoken audio from passage text, unless narration is muted.
 - **Apple** — iCloud (for history/bookmark sync) and StoreKit (for AICoin purchases), both under your own Apple ID and governed by Apple's own privacy policy.
